@@ -1,7 +1,7 @@
 import numpy as np
 
 """
-a ray casting class made from three stack overflows.
+a ray casting class made from three stack overflow discussions.
 Expects triangles 
 
 searching went like:
