@@ -1,15 +1,15 @@
 import numpy as np
 
 """
-a ray casting class made from three stack overflows
-expects triangles 
+a ray casting class made from three stack overflows.
+Expects triangles 
 
 searching went like:
     1) see if triangle gets hit by a ray
     2) see if point is in triangle
     3) get reflection
 
-next step would be to see if a class can be made to (numpy) vectorize many rays origins and directions
+next step is to see if a class can be made to (numpy) vectorize multiple ray origins and directions,
 instead of looping through them
 """
 
